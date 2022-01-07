@@ -1,2 +1,2 @@
 # Advanced-Python-Tutorials
-Some Python tutorials I completed from the LearnX course I passed. 
+Different Python tutorials for more advanced concepts like Regex and 'exception handling'.
